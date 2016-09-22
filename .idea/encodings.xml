@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin/broadleaf-admin-functional-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin/broadleaf-admin-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin/broadleaf-contentmanagement-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin/broadleaf-open-admin-platform" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/broadleaf-framework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/broadleaf-framework-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/broadleaf-profile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/broadleaf-profile-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../DemoSite-develop-5.0.x" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../DemoSite-develop-5.0.x/admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../DemoSite-develop-5.0.x/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../DemoSite-develop-5.0.x/site" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

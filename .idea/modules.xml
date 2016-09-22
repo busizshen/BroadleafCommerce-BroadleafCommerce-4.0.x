@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin/admin.iml" filepath="$PROJECT_DIR$/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DemoSite-develop-5.0.x/admin/admin (1) (com.mycompany-community).iml" filepath="$PROJECT_DIR$/../DemoSite-develop-5.0.x/admin/admin (1) (com.mycompany-community).iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadleaf.iml" filepath="$PROJECT_DIR$/broadleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/broadleaf-admin-functional-tests/broadleaf-admin-functional-tests.iml" filepath="$PROJECT_DIR$/admin/broadleaf-admin-functional-tests/broadleaf-admin-functional-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/broadleaf-admin-module/broadleaf-admin-module.iml" filepath="$PROJECT_DIR$/admin/broadleaf-admin-module/broadleaf-admin-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/broadleaf-common.iml" filepath="$PROJECT_DIR$/common/broadleaf-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/broadleaf-contentmanagement-module/broadleaf-contentmanagement-module.iml" filepath="$PROJECT_DIR$/admin/broadleaf-contentmanagement-module/broadleaf-contentmanagement-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/broadleaf-framework/broadleaf-framework.iml" filepath="$PROJECT_DIR$/core/broadleaf-framework/broadleaf-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/broadleaf-framework-web/broadleaf-framework-web.iml" filepath="$PROJECT_DIR$/core/broadleaf-framework-web/broadleaf-framework-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/broadleaf-open-admin-platform/broadleaf-open-admin-platform.iml" filepath="$PROJECT_DIR$/admin/broadleaf-open-admin-platform/broadleaf-open-admin-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/broadleaf-profile/broadleaf-profile.iml" filepath="$PROJECT_DIR$/core/broadleaf-profile/broadleaf-profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/broadleaf-profile-web/broadleaf-profile-web.iml" filepath="$PROJECT_DIR$/core/broadleaf-profile-web/broadleaf-profile-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DemoSite-develop-5.0.x/core/core (1) (com.mycompany-community).iml" filepath="$PROJECT_DIR$/../DemoSite-develop-5.0.x/core/core (1) (com.mycompany-community).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DemoSite-develop-5.0.x/ecommerce-website.iml" filepath="$PROJECT_DIR$/../DemoSite-develop-5.0.x/ecommerce-website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration/integration.iml" filepath="$PROJECT_DIR$/integration/integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DemoSite-develop-5.0.x/site/site.iml" filepath="$PROJECT_DIR$/../DemoSite-develop-5.0.x/site/site.iml" />
+    </modules>
+  </component>
+</project>
